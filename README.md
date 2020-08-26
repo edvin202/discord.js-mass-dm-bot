@@ -10,3 +10,6 @@ When you want to run your bot all you have to do is
 ``node index.js``
 
 Hope this was helpful...
+
+
++ NOTE THIS IS AN API ABUSE, USE AT YOUR OWN RISK, ALWAYS HAVE AN ALT SO THAT YOUR MAIN DOESN'T GET BANNED
